@@ -2,5 +2,5 @@
 
 | S.no | Topic | Status |
 | :---     | :---:    | ---:     |
-| 1.    | contains duplicate  | Right    |
-
+| 1.    | Contains duplicate  |     |
+| 2.    | Valid Anagram  |     |
