@@ -5,3 +5,4 @@
 | 1.    | Contains duplicate  |  Committed   |
 | 2.    | Valid Anagram  |  Committed   |
 | 3.    | Two Sum  |  Committed   |
+| 4.    | Group Anagram  |  Committed   |
