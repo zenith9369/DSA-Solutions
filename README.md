@@ -6,3 +6,4 @@
 | 2.    | Valid Anagram  |  Committed   |
 | 3.    | Two Sum  |  Committed   |
 | 4.    | Group Anagram  |  Committed   |
+| 5.    | Top K Frequent Elements |  Committed   |
