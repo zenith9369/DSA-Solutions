@@ -9,3 +9,4 @@
 | 5.    | Top K Frequent Elements |  Committed   |
 | 5.    | Product of Array Except Self |  Committed   |
 | 6.    | Valid Sudoko  |  Committed   |
+| 7.    | Longest Consecutive Sequence  |  Committed   |
